@@ -1,0 +1,53 @@
+html {
+  background-color: #ffc8dd;
+}
+
+  header .titular {
+  font-family: 'Ysabeau', sans-serif;
+  color: white;
+  font-size: 10px;
+  text-align: center;
+  background-color: #f72585;
+  letter-spacing: 2px;
+}
+
+header h1 {
+  font-family: 'PT Serif', serif;
+  font-size: 55px;
+  text-align: center;
+  color: #1d3557;
+  letter-spacing: 4px;
+}
+
+header nav {
+  text-align: center;
+  letter-spacing: 1px;
+  word-spacing: 30px;
+
+}
+
+section p{
+  font-family: 'Ysabeau', sans-serif;
+  font-size: 30px;
+  text-align: center;
+  color: #1d3557;
+  font-weight: bold;
+  padding: 9%;
+  text-align: left;
+}
+
+section img{
+  border: 5px;
+  height: 150px;
+  width: 200px;
+align-content: center;
+
+}
+
+footer{
+  text-align: center;
+}
+
+#redes svg{
+  text-align: center;
+}
